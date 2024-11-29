@@ -24,4 +24,5 @@ Roadmap For Practicing Data Structures And Algorithms - Dynalist
 #### ![Top Trophy](https://github-profile-trophy.vercel.app/?username=tridev1004&theme=radical-ma&margin-w=15)
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/tridev1004)](https://leetcode.com/tridev1004)
+![](https://leetcard.jacoblin.cool/tridev1004?theme=unicorn)
+![](https://leetcard.jacoblin.cool/tridev1004?theme=light,unicorn)
