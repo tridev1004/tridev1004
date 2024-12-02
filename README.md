@@ -15,8 +15,8 @@ Roadmap For Practicing Data Structures And Algorithms - Dynalist
 
 ## Streak:
   
- [![GitHub Streak] [![GitHub Streak](https://streak-stats.demolab.com/tridev1004)](https://git.io/streak-stats)
- ## Activity Graph:
+[![GitHub Streak](https://streak-stats.demolab.com?user=tridev1004&theme=dark)](https://git.io/streak-stats)
+## Activity Graph:
 [![tridev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tridev1004&theme=dracula)](https://github.com/tridev1004/github-readme-activity-graph)
 ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridev1004&theme=vue)
