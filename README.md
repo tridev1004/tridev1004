@@ -15,7 +15,7 @@ Roadmap For Practicing Data Structures And Algorithms - Dynalist
 
 ## Streak:
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tridev1004&theme=holi-theme)](https://git.io/streak-stats)
+ [![GitHub Streak][![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tridev)]
  ## Activity Graph:
 [![tridev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tridev1004&theme=dracula)](https://github.com/tridev1004/github-readme-activity-graph)
 ## About:
