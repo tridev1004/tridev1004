@@ -19,7 +19,7 @@ Roadmap For Practicing Data Structures And Algorithms - Dynalist
 ## Activity Graph:
 [![tridev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tridev1004&theme=dracula)](https://github.com/tridev1004/github-readme-activity-graph)
 ## About:
-  ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridev1004&theme=vue)
+![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridev1004&theme=vue)
  ## Trophy:
 #### ![Top Trophy](https://github-profile-trophy.vercel.app/?username=tridev1004&theme=radical-ma&margin-w=15)
 
