@@ -3,8 +3,6 @@
 Here are some ideas  get you started:
 
 
-
-
 Roadmap For Practicing Data Structures And Algorithms - Dynalist
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
