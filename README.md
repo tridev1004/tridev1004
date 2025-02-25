@@ -1,7 +1,6 @@
 <!--
 *tridev1004/tridev1004* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 Here are some ideas  get you started:
-
 Roadmap For Practicing Data Structures And Algorithms - Dynalist
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
