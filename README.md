@@ -3,7 +3,6 @@
 Here are some ideas  get you started:
 Roadmap For Practicing Data Structures And Algorithms - Dynalist
 - 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
 -->
 ## Streak: 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tridev1004&theme=dark)](https://git.io/streak-stats)
