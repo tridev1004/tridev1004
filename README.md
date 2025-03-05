@@ -1,6 +1,5 @@
 <!--
 *tridev1004/tridev1004* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-Here are some ideas  get you started:
 - 🔭 I’m currently working on ...
 -->
 ## Streak: 
